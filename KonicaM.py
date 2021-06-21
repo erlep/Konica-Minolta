@@ -2,9 +2,10 @@
 # Konica Minolta bizhub 552 - REST Api - Selenium automation
 # KonicaM.py - stáhne Pdf z boxu číslo 8 - https://10.0.8.54
 #
+#  ChromeDriver - WebDriver for Chrome - https://sites.google.com/chromium.org/driver/downloads
+#
 # Selenium with Python - https://selenium-python.readthedocs.io/
 # Selenium Webdriver with Python: Tutorial with Example - https://www.guru99.com/selenium-python.html
-
 # ChromeDriver - WebDriver for Chrome - https://sites.google.com/a/chromium.org/chromedriver/getting-started
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
