@@ -7,7 +7,8 @@ Task:
 Python script saves scaned document to pdf.
 
 Commands:
-- Get Page - https://10.0.8.54/wcd/box.xml
+
+- Get Page - <https://10.0.8.54/wcd/box.xml>
 - Click - Box #8
 - Select from Drop Down - Specify operation: Download to PC
 - Click - Changes the display
@@ -16,8 +17,6 @@ Commands:
 - Click - OK
 - Click - Download
 
+## GitHub URL - <https://github.com/erlep/Konica-Minolta>
 
-## GitHub URL - https://github.com/erlep/Konica-Minolta
-
-## made by peg - https://GitHub.com/ErleP
-
+## made by peg - <https://GitHub.com/ErleP>
