@@ -1,4 +1,4 @@
-# Konica-Minolta v1.0
+# Konica-Minolta v1.1
 
 Konica Minolta bizhub 552 - REST Api - Selenium automation
 
@@ -20,3 +20,8 @@ Commands:
 ## GitHub URL - <https://github.com/erlep/Konica-Minolta>
 
 ## made by peg - <https://GitHub.com/ErleP>
+
+## History
+1.1 - fixed DeprecationWarning '.find_element(By.ID,'   instead of: '.find_element_by_id('
+    - fixed DeprecationWarning istead of 'webdriver path' use selenium.webdriver.chrome.service
+1.0 - 1st release
