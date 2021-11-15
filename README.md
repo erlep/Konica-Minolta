@@ -22,6 +22,7 @@ Commands:
 ## made by peg - <https://GitHub.com/ErleP>
 
 ## History
+
 1.1 - fixed DeprecationWarning: '.find_element(By.ID,'   instead of: '.find_element_by_id)'
     - fixed DeprecationWarning: executable_path has been deprecated
 1.0 - 1st release
