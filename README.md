@@ -1,4 +1,4 @@
-# Konica-Minolta v1.1
+# Konica-Minolta v1.2
 
 Konica Minolta bizhub 552 - REST Api - Selenium automation
 
@@ -22,7 +22,8 @@ Commands:
 ## made by peg - <https://GitHub.com/ErleP>
 
 ## History
-1.1 - added chromedriver update script
-1.1 - fixed DeprecationWarning: '.find_element(By.ID,'   instead of: '.find_element_by_id)'
-    - fixed DeprecationWarning: executable_path has been deprecated
+
+1.2 - delete pdf, close chrome window
+1.1 - fixed DeprecationWarning: '.find_element(By.ID,' instead of: '.find_element_by_id)'
+1.1 - fixed DeprecationWarning: executable_path has been deprecated
 1.0 - 1st release
